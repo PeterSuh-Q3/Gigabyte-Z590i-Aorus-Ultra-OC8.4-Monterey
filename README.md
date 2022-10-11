@@ -90,4 +90,4 @@ https://github.com/OpenIntelWireless/HeliPort#download
 - [SchmockLord](https://github.com/SchmockLord/Gigabyte-Z590i-Vision-D-11900k) Your Z590i Vision D config was very helpful!
 - [Dortania](https://github.com/dortania) for this great OpenCore Desktop Guide
 - [headkaze](https://github.com/headkaze) for Hackintool and our productive conversations :)
-- [OpenCore project](https://github.com/OpenCorePkg) for this great bootloader
+- [OpenCore project](https://github.com/OpenCore) for this great bootloader
