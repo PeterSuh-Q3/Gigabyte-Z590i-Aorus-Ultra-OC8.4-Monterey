@@ -19,7 +19,7 @@ Within this repository I share my Hackintosh EFI for my newest build based on In
   - 2 x USB 2.0/1.1 ports on the back panel
   - 2x m.2 Slots
 - RAM: 16GB x 2 = 32GB Crucial 3200Mhz DDR4 CL22
-- AMD RX 470
+- GPU: AMD RX 470
 - Wifi/BT: Intel AX200
 - SSDs: 
     1x 1TB WDC WDS100T2B0C-00PXH0 M.2 MNVe SSD
