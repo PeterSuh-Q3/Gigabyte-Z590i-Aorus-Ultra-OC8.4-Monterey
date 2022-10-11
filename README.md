@@ -68,7 +68,7 @@ https://github.com/OpenIntelWireless/HeliPort#download
 
 
 # BIOS-settings:
-- Current BIOS version: F3
+- Current BIOS version: F8a
 - **Load optimized defaults**
 - Set **Above 4G Decoding** to Enabled
 - Set **Legacy USB Support** to Disabled
