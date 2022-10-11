@@ -34,7 +34,7 @@ Within this repository I share my Hackintosh EFI for my newest build based on In
 # MOBO Layout
 
 <p align="center">
-  <img src="ScreenShot/Mobo_Layout Screen Shot 2022-10-11 at 7.38.02 PMpng" width="100%" align=center alt="MOBO Layout Z590i Aorus Ultra">
+  <img src="ScreenShot/Mobo_Layout Screen Shot 2022-10-11 at 7.38.02 PM.png" width="100%" align=center alt="MOBO Layout Z590i Aorus Ultra">
 </p>
 <p align="center">
   <img src="ScreenShot/Mobo_Rear Screen Shot 2022-10-11 at 7.35.45 PM.png" width="100%" align=center alt="MOBO Rear Back Panel Z590i Aorus Ultra">
