@@ -48,7 +48,7 @@ Within this repository I share my Hackintosh EFI for my newest build based on In
 
 # For Intel Wi-Fi 6 AX200 working
 
-To make Intel Wifi and BT always work, download the latest version of Helli Port from the link below, and set it to start automatically when you log in to Users & Groups.
+To make Intel Wifi and BT always work, download the latest version of HeliPort.app from the link below, and set it to start automatically when you log in to Users & Groups.
 
 https://github.com/OpenIntelWireless/HeliPort#download
 
