@@ -3,7 +3,7 @@
 Within this repository I share my Hackintosh EFI for my newest build based on Intels Tager lake 10th Gen CPU.
 
 <p align="center">
-  <img src="Screenshot/MacOs%20Gpu%20Info%20Screen%20Shot%202022-10-11%20at%206.52.10%20PM.png" width="100%" align=center alt="Z590i and 10100F running macOS Monterey">
+  <img src="ScreenShot/MacOs Gpu Info Screen Shot 2022-10-11 at 6.52.10 PM.png" width="100%" align=center alt="Z590i and 10100F running macOS Monterey">
 </p>
 
 # Hardware used in this build:
