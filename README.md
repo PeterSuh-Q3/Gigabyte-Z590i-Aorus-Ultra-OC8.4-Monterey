@@ -91,3 +91,4 @@ https://github.com/OpenIntelWireless/HeliPort#download
 - [Dortania](https://github.com/dortania) for this great OpenCore Desktop Guide
 - [headkaze](https://github.com/headkaze) for Hackintool and our productive conversations :)
 - [OpenCore project](https://github.com/acidanthera/OpenCorePkg) for this great bootloader
+- [open source Intel Wireless projects for macOS](https://github.com/OpenIntelWireless) for this great intel wi-fi/BT kext
