@@ -46,7 +46,7 @@ Within this repository I share my Hackintosh EFI for my newest build based on In
   <img src="ScreenShot/USB Port Map Screen Shot 2022-10-11 at 7.30.38 PM.png" width="100%" align=center alt="USB Port Mapping Z590i Aorus Ultra">
 </p>
 
-# For Intel AW200 Wifi working
+# For Intel Wi-Fi 6 AX200 working
 
 To make Intel Wifi and BT always work, download the latest version of Helli Port from the link below, and set it to start automatically when you log in to Users & Groups.
 
