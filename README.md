@@ -1,4 +1,4 @@
-# Gigabyte-Z590i-Aorus-Ultra-OC8.4-Monterey
+# Gigabyte-Z590i-Aorus-Ultra-OpenCore 0.8.4-Monterey
 
 Within this repository I share my Hackintosh EFI for my newest build based on Intels Tager lake 10th Gen CPU.
 
